@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Auralis",
+      "hasCanvas": false,
+      "bodyTextLen": 429,
+      "bodyTextHash": "020165b25ef4612cf8c16b2c57dbbaeb4714b1d10ad30e09a7c0b626051def0a",
+      "bodyTextPrefix": "Auralis Analog-voiced poly synth. Arm the engine to start — brow",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Auralis",
+      "hasCanvas": false,
+      "bodyTextLen": 429,
+      "bodyTextHash": "020165b25ef4612cf8c16b2c57dbbaeb4714b1d10ad30e09a7c0b626051def0a",
+      "bodyTextPrefix": "Auralis Analog-voiced poly synth. Arm the engine to start — brow",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
